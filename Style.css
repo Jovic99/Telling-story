@@ -1,0 +1,60 @@
+#nav-bar{
+    background-color: #474B4f;
+}
+
+#links li a{
+    font-weight: bold;
+    color: #86C232;
+}
+
+#links li a:hover{
+    border-radius: 5px;
+    background-color: #86C232;
+    color: #474B4f;
+}
+
+@media only screen and (max-width: 768px){
+    #links li a{
+        font-size: 0.7em;
+    }
+
+    #about-me{
+        font-size: 0.6em;
+    }
+}
+
+#background{
+    background-color: #222629;
+}
+
+#home{
+    height: 100vh;
+}
+
+#biography{
+    height: 100vh;
+}
+
+#biography p{
+    font-size: 1.8em;
+}
+
+#name{
+    color: #86C232;
+}
+
+#biography-title{
+    color: #86C232;
+}
+
+#github a{
+    background-color: #86C232;
+    color: #222629;
+    font-weight: bold;
+}
+
+#codepen a{
+    background-color: #86C232;
+    color: #222629;
+    font-weight: bold;
+}
