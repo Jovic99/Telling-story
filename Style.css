@@ -80,10 +80,24 @@
     border: 3px solid #86C232;
 }
 
-#galery{
-    height: 100vh;
-}
-
 #galery-title{
     color: #86C232;
+}
+
+#contact-title{
+    color: #86C232;
+}
+
+footer{
+    background-color: #474B4f;
+    height: 3.5rem;
+
+}
+
+footer a{
+    color: #86C232;
+}
+
+#sledece{
+    color: red;
 }
